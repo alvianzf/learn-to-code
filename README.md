@@ -32,3 +32,4 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 5. [Increment a Number](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_5.js)
 6. [Create a Decimal Number](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_6.js)
 7. [Checking the Data Types](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_7.js)
+8. [Find the Length of a string](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_8.js)
