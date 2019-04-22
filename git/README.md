@@ -24,7 +24,7 @@ no need, it is pre-installed
 ## To use git
 
 #### Clone
-To use git, first clone this project using the command `git clone https://github.com/alvianzf/learn-to-code.git`.
+To use git, first clone this project using the command `git clone https://github.com/alvianzf/learn-to-code.git`
 
 #### Checkout
 You are currently in the `master` branch. Which is the main branch of the project. It is a good idea to `branch` your changes, so that it can be reviewed of any `bugs` before committing it (or `merge`) it into the main branch. Do this by typing `git checkout -b (your branch name)`. Notice the `-b` means that you are creating a new branch.
@@ -37,13 +37,13 @@ Pulling is a term used to download all the codes on a branch. You 'pull' codes f
 To pull from other branches, you can do it using the command `git pull origin (branch name)`, or simply `git pull (branch name)`
 
 #### Add
-After you cloned the repo, create a new branch, pull recent changes it, and code inside your project. When done, you should add the changed you've done to the project. Do this using the command `git add (your file's name)`. If you want to add all your changes use `.` to add all: `git add .`.
+After you cloned the repo, create a new branch, pull recent changes it, and code inside your project. When done, you should add the changed you've done to the project. Do this using the command `git add (your file's name)`. If you want to add all your changes use `.` to add all: `git add .`
 
 #### Commit
 Commit your changes to queue it before uploading (or `push`) to the repo. Do this by typing `git commit -m "(your commit message)"`, your commit message must be compact and represents what are you doing to the code or the changes that you've done. It is so that other developers may know what are the recent changes that's happening to the project.
 
 #### Push
-After committing your code, you want to upload it back onto the github repo. Do this by using the command `git push`. Remember to check on which branch you are on before pushing the code
+After committing your code, you want to upload it back onto the github repo. Do this by using the command `git push`. Remember to check on which branch you are on before pushing the code.
 
 #### Config
 Sometimes, the system would like to ask you who you are before pushing the code, you can do this by using the commands:
