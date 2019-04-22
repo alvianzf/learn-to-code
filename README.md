@@ -39,4 +39,4 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 10. [Loops](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_10.js)
 11. [Working With Arrays](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_11.js)
 12. [Manipulating the Array](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_12.js)
-13. [](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_13.js)
+13. [JavaScript Object Notation (JSON)](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_13.js)
