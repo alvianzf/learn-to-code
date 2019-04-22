@@ -19,7 +19,7 @@ for further reading, you can catch up to JavaScript [here](https://www.javascrip
 
 #### Prequisites
 
-You should be able to use `git` for this lesson. At least you should be able to create a new branch, `checkout`, `clone`, `pull`, `add`, `commit`, and `push` your code to the repo. If you are unfamilliar with git, you could learn all about it [here]()
+You should be able to use `git` for this lesson. At least you should be able to create a new branch, `checkout`, `clone`, `pull`, `add`, `commit`, and `push` your code to the repo. If you are unfamilliar with git, you could learn all about it [here](https://github.com/alvianzf/learn-to-code/tree/master/git/README.md)
 
 #### Let's get started
 
