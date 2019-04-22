@@ -4,7 +4,7 @@
 
 # learn to code
 
-This is the repo for learning how to code. The lessons are dividied into several categories for easy reading. The lessons also includes some test scripts and sample codes to better understand the concept
+This is the repo for learning how to code. The lessons are divided into several categories for easy reading. The lessons also includes some test scripts and sample codes to better understand the concept
 
 ### Algorithms
 Algorithms are a set of commands or rules that if run correctly, will produce consistent result everytime it is executed.
