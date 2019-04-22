@@ -1,6 +1,8 @@
 
 # learn to code
-![Shield io badge - License](https://img.shields.io/badge/License-WTFPL-blue.svg)
+![WTFPL](https://img.shields.io/badge/License-WTFPL-blue.svg) <a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+       width="80" height="15" alt="WTFPL" /></a>
 
 This is the repo for learning how to code. The lessons are divided into several categories for easy reading. The lessons also includes some test scripts and sample codes to better understand the concept
 
