@@ -25,6 +25,8 @@ You should be able to use `git` for this lesson. At least you should be able to 
 
 Here are lists of tasks you should try. Try to do them in order to get the complete sense of the lesson, the examples are in their respective [folders](https://github.com/alvianzf/learn-to-code/tree/master/algorithm):
 
+##### Basic JavaScripts
+
 1. [Comment your code!](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_1.js)
 2. [Constants and Variables](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_2.js)
 3. [Console log!](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_3.js)
