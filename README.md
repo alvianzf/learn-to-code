@@ -1,5 +1,7 @@
 <img src="img/logo.png" width="30">
 
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
 # learn to code
 
 This is the repo for learning how to code. The lessons are dividied into several categories for easy reading. The lessons also includes some test scripts and sample codes to better understand the concept
