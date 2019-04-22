@@ -28,3 +28,4 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 1. [Comment your code!](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_1.js)
 2. [Constants and Variables](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_2.js)
 3. [Console log!](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_3.js)
+4. [Append and Addition](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_4.js)
