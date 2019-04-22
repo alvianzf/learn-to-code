@@ -36,3 +36,4 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 7. [Checking the Data Types](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_7.js)
 8. [Find the Length of a string](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_8.js)
 9. [Conditions](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_9.js)
+10. [Loops](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_10.js)
