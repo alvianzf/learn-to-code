@@ -25,4 +25,4 @@ You should be able to use `git` for this lesson. At least you should be able to 
 
 Here are lists of tasks you should try. Try to do them in order to get the complete sense of the lesson, the examples are in their respective [folders](https://github.com/alvianzf/learn-to-code/tree/master/algorithm):
 
-1. Comment your code! 
+1. [Comment your code!](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_1.js)
