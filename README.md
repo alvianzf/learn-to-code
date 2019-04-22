@@ -55,4 +55,6 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 
 ![challenge](img/challenge.png)
 
-1. [Even and Odd](http://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_1.js) - Find something as an even number or an odd number
+1. [Even and Odd](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_1.js) - Find something as an even number or an odd number
+2. [Find an Element](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_2.js) - Find a specific element inside an array
+3. [Sort the Arrays](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_3.js) - Sort the Array in an ascending manner
