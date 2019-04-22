@@ -1,4 +1,4 @@
-<img src="img/logo.png" width="30"> [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+<img src="img/logo.png" width="30">  **Alvian Zachry Faturrahman** [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 # learn to code
 
