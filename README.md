@@ -8,7 +8,6 @@ This is the repo for learning how to code. The lessons are divided into several 
 
 ![algorithm](img/alg.png)
 
-
 Algorithms are a set of commands or rules that if run correctly, will produce consistent result everytime it is executed.
 In programming, an algorithm is expressed through a specific syntax that corresponds to the programming language (or prolang to be short) and will always produce the same output given the same input.
 
