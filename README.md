@@ -15,8 +15,12 @@ understanding JavaScript it essential to a successful web developer. Most of the
 
 for further reading, you can catch up to JavaScript [here](https://www.javascript.com/).
 
+#### Prequisites
+
+You should be able to use `git` for this lesson. At least you should be able to create a new branch, `checkout`, `clone`, `pull`, `add`, `commit`, and `push` your code to the repo. If you are unfamilliar with git, you could learn all about it [here]()
+
 #### Let's get started
 
-Here are lists of tasks you should try. Try to do them in order to get the complete sense of the lesson:
+Here are lists of tasks you should try. Try to do them in order to get the complete sense of the lesson, the examples are in their respective [folders](https://github.com/alvianzf/learn-to-code/tree/master/algorithm):
 
-1. 
+1. Comment your code! 
