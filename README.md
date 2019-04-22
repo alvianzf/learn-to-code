@@ -1,6 +1,6 @@
 
 # learn to code
-[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+![Shield io badge - License](https://img.shields.io/badge/License-WTFPL-blue.svg)
 
 This is the repo for learning how to code. The lessons are divided into several categories for easy reading. The lessons also includes some test scripts and sample codes to better understand the concept
 
