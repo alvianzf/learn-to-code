@@ -15,7 +15,7 @@ By using ubuntu, you can setup your git using:
 
 1. Open the terminal, this can be done easily using `ctrl` + `shift` + `T`
 2. Update your system using `sudo apt-get update`, type your password if prompted
-3. Install git using `sudo apt-get git-core`
+3. Install git using `sudo apt-get install git-core`
 
 #### MacOS
 

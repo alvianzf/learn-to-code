@@ -56,6 +56,8 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 13. [Objects](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_13.js)
 14. [Functions](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_14.js)
 
+#####
+
 ##### Code Challenges
 
 ![challenge](img/challenge.png)
