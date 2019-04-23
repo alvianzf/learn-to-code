@@ -64,4 +64,4 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 2. [Find an Element](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_2.js) - Find a specific element inside an array
 3. [Sort the Array](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_3.js) - Sort the Array in an ascending manner
 4. [Match Elements](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_4.js) - Match common elements from two arrays
-5. [to be determined]()
+5. [to be determined later](#)
