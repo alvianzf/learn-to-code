@@ -25,7 +25,7 @@
   * To know the length of the array, we use the length() function
   */
 
-  let len = length(arrayExample)
+  let len = arrayExample.length
 
   /**
    * To access the element in the array, we can access it using the square brackets
