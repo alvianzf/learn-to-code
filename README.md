@@ -27,6 +27,19 @@ Understanding JavaScript it essential to a successful web developer. Most of the
 
 For further reading, you can catch up to JavaScript [here](https://www.javascript.com/).
 
+#### PHP
+
+![php](img/php-logo.jpeg)
+
+PHP is the most used programming language in website development. It is very powerful and easy to use. Most of the world's website are written in PHP, especially in **Back End** development. Catch up to php [here](http://www.php.net)
+
+
+#### MySQL
+
+![mySQL](img/sql-logo.png)
+
+MySQL is an SQL library which handles the SQL database. SQL is short for Structured Query Language, which is the most wide-spread database used in the world. Catch up to MySQL [here](https://www.mysql.com/)
+
 #### Prequisites
 
 ![git](/img/git-logo.png)
@@ -62,9 +75,27 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 2. [Declaring a Variable](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_php_02.php)
 3. []()
 
+##### MySQL
+
+1. [create a table]()
+2. [insert a value]()
+3. [select all values]()
+4. [select a specific value]()
+5. [deletes a row]()
+6. [update a row]()
+7. 
 
 ##### Ruby
 1. []()
+
+##### Java
+1. []()
+
+##### Visual Basic .NET
+
+##### C#
+
+#####
 
 ##### Code Challenges
 
