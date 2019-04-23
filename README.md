@@ -62,6 +62,10 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 2. [Declaring a Variable](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_php_02.php)
 3. []()
 
+
+##### Ruby
+1. []()
+
 ##### Code Challenges
 
 ![challenge](img/challenge.png)
