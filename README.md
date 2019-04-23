@@ -27,14 +27,14 @@ Understanding JavaScript it essential to a successful web developer. Most of the
 
 For further reading, you can catch up to JavaScript [here](https://www.javascript.com/).
 
-#### PHP
+#### Basic PHP
 
 ![php](img/php-logo.jpeg)
 
 PHP is the most used programming language in website development. It is very powerful and easy to use. Most of the world's website are written in PHP, especially in **Back End** development. Catch up to php [here](http://www.php.net)
 
 
-#### MySQL
+#### Basic MySQL
 
 ![mySQL](img/sql-logo.png)
 
