@@ -39,6 +39,8 @@ To pull from other branches, you can do it using the command `git pull origin (b
 #### Add
 After you cloned the repo, create a new branch, pull recent changes it, and code inside your project. When done, you should add the changed you've done to the project. Do this using the command `git add (your file's name)`. If you want to add all your changes use `.` to add all: `git add .`
 
+To undo a file staged to commit you can use `git reset (file name)` . To undo all files staged one can use `git reset .`
+
 #### Commit
 Commit your changes to queue it before uploading (or `push`) to the repo. Do this by typing `git commit -m "(your commit message)"`, your commit message must be compact and represents what are you doing to the code or the changes that you've done. It is so that other developers may know what are the recent changes that's happening to the project.
 
