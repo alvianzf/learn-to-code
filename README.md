@@ -56,7 +56,11 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 13. [Objects](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_13.js)
 14. [Functions](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_14.js)
 
-#####
+##### PHP (PHP: Hypertext Preprocessor)
+
+1. [Creating a PHP page](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_php_01.php)
+2. [Declaring a Variable](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_php_02.php)
+3. []()
 
 ##### Code Challenges
 
