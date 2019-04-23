@@ -65,4 +65,4 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 3. [Sort the Array](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_3.js) - Sort the Array in an ascending manner
 4. [Match Elements](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_4.js) - Match common elements from two arrays
 5. [Fibonacci](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_5.js) - Generate a Fibonacci sequence automatically
-6. [to be determined later](#code-challenge)
+6. [to be determined later](#code-challenges)
