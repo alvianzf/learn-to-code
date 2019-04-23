@@ -1,5 +1,6 @@
 
 # learn to code
+![size](https://img.shields.io/github/repo-size/alvianzf/learn-to-code.svg)
 ![WTFPL](https://img.shields.io/badge/License-WTFPL-blue.svg)
 ![last commit](https://img.shields.io/github/last-commit/alvianzf/learn-to-code.svg)
 ![Follow](https://img.shields.io/github/followers/alvianzf.svg?label=Follow)
