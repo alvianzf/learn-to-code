@@ -27,14 +27,14 @@ Understanding JavaScript it essential to a successful web developer. Most of the
 
 For further reading, you can catch up to JavaScript [here](https://www.javascript.com/).
 
-#### Basic PHP
+#### PHP
 
 ![php](img/php-logo.jpeg)
 
 PHP is the most used programming language in website development. It is very powerful and easy to use. Most of the world's website are written in PHP, especially in **Back End** development. Catch up to php [here](http://www.php.net)
 
 
-#### Basic MySQL
+#### MySQL
 
 ![mySQL](img/sql-logo.png)
 
@@ -69,13 +69,13 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 13. [Objects](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_13.js)
 14. [Functions](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_14.js)
 
-##### PHP (PHP: Hypertext Preprocessor)
+##### Basic PHP (PHP: Hypertext Preprocessor)
 
 1. [Creating a PHP page](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_php_01.php)
 2. [Declaring a Variable](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_php_02.php)
 3. []()
 
-##### MySQL
+##### Basic MySQL
 
 1. [create a table]()
 2. [insert a value]()
@@ -85,17 +85,11 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 6. [update a row]()
 7. 
 
-##### Ruby
+##### Basic Ruby
 1. []()
 
-##### Java
+##### Basic Java
 1. []()
-
-##### Visual Basic .NET
-
-##### C#
-
-#####
 
 ##### Code Challenges
 
