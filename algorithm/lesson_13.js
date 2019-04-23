@@ -1,6 +1,6 @@
 // lesson 13
 
-// JSON
+// Objects
 
 /**
  * JavaScript has a unique object data type which is currently the standard format of data transfer in the world

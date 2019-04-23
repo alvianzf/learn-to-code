@@ -53,7 +53,8 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 10. [Loops](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_10.js)
 11. [Working With Arrays](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_11.js)
 12. [Manipulating the Array](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_12.js)
-13. [JavaScript Object Notation (JSON)](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_13.js)
+13. [Objects](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_13.js)
+14. [Functions](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/lesson_14.js)
 
 ##### Code Challenges
 
@@ -61,4 +62,6 @@ Here are lists of tasks you should try. Try to do them in order to get the compl
 
 1. [Even and Odd](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_1.js) - Find something as an even number or an odd number
 2. [Find an Element](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_2.js) - Find a specific element inside an array
-3. [Sort the Arrays](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_3.js) - Sort the Array in an ascending manner
+3. [Sort the Array](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_3.js) - Sort the Array in an ascending manner
+4. [Match Elements](https://github.com/alvianzf/learn-to-code/tree/master/algorithm/tasks/task_4.js) - Match common elements from two arrays
+5. [to be determined]()
