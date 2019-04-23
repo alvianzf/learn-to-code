@@ -1,6 +1,9 @@
 
 # learn to code
-![WTFPL](https://img.shields.io/badge/License-WTFPL-blue.svg) <a href="http://www.wtfpl.net/"><img
+![WTFPL](https://img.shields.io/badge/License-WTFPL-blue.svg) 
+![updated](	https://img.shields.io/eclipse-marketplace/last-update/:name.svg)
+![Follow](https://img.shields.io/github/followers/:user.svg?label=Follow)
+<a href="http://www.wtfpl.net/"><img
        src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
        width="80" height="15" alt="WTFPL" /></a>
 
