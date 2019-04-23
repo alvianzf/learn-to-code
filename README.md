@@ -19,9 +19,9 @@ Let's take a look at some algorithm practices using JavaScript to help you bette
 
 ![javascript](img/js-logo.png)
 
-understanding JavaScript it essential to a successful web developer. Most of the scripts witten nowadays, especially in **Front end** development are written mostly, if not entirely in JavaScript. That's why, a deep understanding of JavaScript is very important. JavaScript is light-weight, versatile, and quite easy to understand.
+Understanding JavaScript it essential to a successful web developer. Most of the scripts witten nowadays, especially in **Front end** development are written mostly, if not entirely in JavaScript. That's why, a deep understanding of JavaScript is very important. JavaScript is light-weight, versatile, and quite easy to understand.
 
-for further reading, you can catch up to JavaScript [here](https://www.javascript.com/).
+For further reading, you can catch up to JavaScript [here](https://www.javascript.com/).
 
 #### Prequisites
 
