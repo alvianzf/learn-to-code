@@ -1,5 +1,6 @@
 # Vue JS
 #### A brief tutorial
+<img src="../img/vue-logo.png" width="150">
 
 VueJs is a progressive JavaScript framework mainly to code the view part of MVC. It is used for building user interfaces and single page applications.
 
