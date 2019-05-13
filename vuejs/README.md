@@ -24,20 +24,20 @@ it will return the current node version running on the machine. If node is not i
 
 #### Ubuntu
 
-1. Add NodeJS PPA
+1. Add NodeJS PPA  
 
-install curl
-> `sudo apt install curl`
+  install curl
+  > `sudo apt install curl`
 
-then the PPA (latest)
-> `curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -`
+  then the PPA (latest)
+  > `curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -`
 
-or the LTS PPA
-> `curl -sL https://deb.nodesource.com/setup_8.x | sudo bash -`
+  or the LTS PPA
+  > `curl -sL https://deb.nodesource.com/setup_8.x | sudo bash -`
 
 2. Install NodeJs
 
-> `sudo apt-get install nodejs`
+  > `sudo apt-get install nodejs`
 
 #### MacOS
 
@@ -45,9 +45,42 @@ or the LTS PPA
 
 ---
 
-### Vue CLI
+## Vue CLI
 It is easier to use `vue-cli` to build a vue application.
 
 > `npm i @vue/cli`
 
+check your version with
+> `vue --version`
+
 for further documentation, refer [here](https://cli.vuejs.org/guide/installation.html)
+
+---
+
+## Create a project
+
+to create a project, open up the terminal, type:
+
+> `vue create (project name)`
+
+then pick the best configuration for your project. Wait until it is finished, then `voila` your project is ready to load!
+
+The project will have some basic files and folders needed to run your project. Inside the `src`folder are the files we are most concerned with.
+
+### editing the `package.json`
+
+to have an easier time coding and debugging, you can try editing a script in the `package.json` file.
+
+add:
+
+![package](../img/packagejson.png)
+
+> `"dev": "vue-cli-service serve --hot --open"`
+
+the `--hot` command will force the hot reload function in vueJs, so you can watch the page change as you code. The `--open` command will open the browser for you! Neat!.
+
+## Add Routes
+
+to ensure that you can render pages, we use the `vue-router` library. To do this, type:
+
+> `npm i vue-router`
