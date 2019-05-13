@@ -79,6 +79,8 @@ add:
 
 the `--hot` command will force the hot reload function in vueJs, so you can watch the page change as you code. The `--open` command will open the browser for you! Neat!.
 
+Try typing `npm run dev` to start viewing your page.
+
 ## Add Routes
 
 to ensure that you can render pages, we use the `vue-router` library. To do this, type:
