@@ -48,3 +48,5 @@ or the LTS PPA
 It is easier to use `vue-cli` to build a vue application.
 
 > `npm i @vue/cli`
+
+for further documentation, refer [here](https://cli.vuejs.org/guide/installation.html)
