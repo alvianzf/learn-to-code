@@ -86,3 +86,15 @@ Try typing `npm run dev` to start viewing your page.
 to ensure that you can render pages, we use the `vue-router` library. To do this, type:
 
 > `npm i vue-router`
+
+## Add vuex
+
+vuex is a state manager for vueJs, to install vuex, simply type:
+
+> `npm i vuex`
+
+## Add Vuetify
+
+Vuetify is a material theme component library for vueJs, it is based on the bootstrap modified for vueJs, to add vuetify type in:
+
+>`vue add vuetify`
